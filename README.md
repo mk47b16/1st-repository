@@ -1,2 +1,3 @@
 # 1st-repository
-this is my first GitHub repository
+This is my first GitHub repository
+Author- Marmik Singh Barolia
